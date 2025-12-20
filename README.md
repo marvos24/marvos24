@@ -81,10 +81,10 @@ I'm a passionate Full Stack Developer from Acuña, Coahuila, Mexico, specializin
   - State Management
   - UI/UX Implementation
 - **Android Studio Development**
-  -Mobile Audio Application Development Using Oboe and FFmpeg
-  -Low-Latency Audio and Multimedia Processing on Android
-  -Real-Time Audio Playback and Decoding System Development
-  -Android Audio Architecture with Oboe and FFmpeg
+  - Android Audio Architecture with Oboe and FFmpeg
+  - Mobile Audio Application Development Using Oboe and FFmpeg
+  - Real-Time Audio Playback and Decoding System Development
+  - Low-Latency Audio and Multimedia Processing on Android
 
 ### 🔭 Current Focus
 
