@@ -1,4 +1,4 @@
-Here are some # Hi there, I'm Marcos Vega 👋 
+ # Hi there, I'm Marcos Vega 👋 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1F37F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Laravel+Expert;API+Development+%7C+Mobile+App+Development;Flutter+Developer+%7C+System+Architecture" alt="Typing SVG" />
@@ -81,11 +81,10 @@ I'm a passionate Full Stack Developer from Acuña, Coahuila, Mexico, specializin
   - State Management
   - UI/UX Implementation
 - **Android Studio Development**
-  -Mobile Audio Application Development Using Oboe and
-   FFmpeg
+  -Mobile Audio Application Development Using Oboe and FFmpeg
   -Low-Latency Audio and Multimedia Processing on Android
   -Real-Time Audio Playback and Decoding System Development
-   -Android Audio Architecture with Oboe and FFmpeg
+  -Android Audio Architecture with Oboe and FFmpeg
 
 ### 🔭 Current Focus
 
@@ -131,5 +130,3 @@ I'm a passionate Full Stack Developer from Acuña, Coahuila, Mexico, specializin
 
 ⭐️ From [Marcos Vega](https://github.com/marvos24)
 
-- ⚡ Fun fact: ...
--->
