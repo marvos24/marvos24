@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer from Acuña, Coahuila, Mexico, specializing in Laravel, Android Studio, API Development, and Mobile Applications. With expertise in building backend systems and scalable applications, I bring ideas to life through clean, efficient code.
+I'm a passionate Full Stack Developer from Acuña, Coahuila, Mexico, specializing in Android Studio, API Development, and Mobile Applications. With expertise in building backend systems and scalable applications, I bring ideas to life through clean, efficient code.
 
 ### 🚀 What I'm Currently Working On
 
